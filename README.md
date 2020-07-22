@@ -7,7 +7,7 @@
 ---
 
 #### 文件介绍
-- bert-base-chinese-local 是bert预训练模型数据，项目中已经全部改为bert-base-chinese，如果无法通过项目内下载可以改为本路径
+- bert-base-chinese-local 是bert预训练模型数据，项目中已经全部改为bert-base-chinese，如果无法通过项目内下载可以改为本路径, 已删除，文件过大，无法上传
 - datasets 保存本项目中的所有训练数据，验证数据以及测试数据
 - models 为本项目fine-tune之后的模型保存
 - src
